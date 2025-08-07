@@ -1,0 +1,6 @@
+__pychache__/
+*.pyc
+*.log
+*.temp
+detected_objects.jason
+*.jpg
