@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  background: #606060;
+  border: none;
+  cursor: pointer;
+}
+
+img {
+  margin: 10px 0;
+  border: 1px solid #3c3c3c;
+}

@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; padding: 12px; }
+h1 { text-align:center; }
+.container { display:flex; gap: 12px; margin-top: 12px; }
+.video-pane { flex: 1; text-align:center; }
+.video-pane img { max-width:100%; border:1px solid #ccc; }
+.sidebar { width: 340px; border-left: 1px solid #eee; padding-left: 12px; }
+.category-section { margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px dashed #eee; }
+pre { background:#f9f9f9; padding:8px; height:200px; overflow:auto; }

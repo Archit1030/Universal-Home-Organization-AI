@@ -1,0 +1,16 @@
+{
+  "timestamp": "2025-08-21T14:17:46.754311",
+  "objects": [
+    {
+      "name": "person",
+      "bbox": [
+        1,
+        27,
+        625,
+        480
+      ],
+      "category": "people",
+      "zone": "table"
+    }
+  ]
+}
