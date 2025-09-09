@@ -17,6 +17,16 @@ This full-stack project uses computer vision to detect and analyze objects in ro
 - Highlights detected objects
 - Useful for display or web integration
 
+### Phase 4: Visualization
+
+### Phase 5: Categorization
+
+### Phase 6 : Basic UI
+
+### Phase 7: Realtime
+
+### Phase 8 : Frontend
+
 ## ⚙️ Technologies
 - Python
 - OpenCV
